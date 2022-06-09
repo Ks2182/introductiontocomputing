@@ -1,3 +1,4 @@
+#Question 5
 H_atom=float(input("Enter hydrogen atom:"))
 C_atom=float(input("Enter carbon atom:"))
 O_atom=float(input("Enter oxygen atom:"))
