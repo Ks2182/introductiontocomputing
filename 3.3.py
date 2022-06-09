@@ -27,5 +27,5 @@ y2=int(input("Enter value of y2:",))
 x1=int(input("Enter value of x1:",))
 x2=int(input("Enter value of x2:",))
 e=(y2-y1)/(x2-x1)
-print("Value:,e)
+print("Value:",e)
 
