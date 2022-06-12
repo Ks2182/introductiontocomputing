@@ -1,4 +1,5 @@
 #Question 1
+#grading according to the marks
 ma_rks=int(input("Enter marks:"))
 if ma_rks<25:
     print("Grade:F")
