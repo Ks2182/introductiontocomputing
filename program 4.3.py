@@ -1,4 +1,5 @@
 #Question 3
+#multiplication game program
 import random
 i=1
 while(i<=10):
