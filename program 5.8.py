@@ -10,17 +10,19 @@ h=int(input("Enter a value:"))
 i=int(input("Enter a value:"))
 j=int(input("Enter a value:"))
 list1=[a,b,c,d,e,f,g,h,i,j]
+#positive or negative numbers
 for i in list1:
     if i>0:
      print("Positive number:",i)
     elif i<0:
         print("Negative number:",i)
+#even or odd numbers
 for j in list1:
     if j%2==0:
         print("Even number:",j)
     else:
         print("Odd number:",j)
-
+#number of times each number occurs in the list
 def counter(list1,x):
     count=0
     for item in list1:
