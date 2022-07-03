@@ -1,4 +1,4 @@
-#ques1
+# Question 1
 def perfect_number(n):
     sum=0
     for x in range(1,n):
