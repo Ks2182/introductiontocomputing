@@ -1,4 +1,4 @@
-#Ques 4
+#Question 4
 import string, sys
 def ispangram(str1, alphabet=string.ascii_lowercase):
     alphaset=set(alphabet)
