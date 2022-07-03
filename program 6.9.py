@@ -1,4 +1,4 @@
-#ques 9
+#Question 9
 class py_solution:
    def is_valid_parenthese(self, str1):
         stack, pchar = [], {"(": ")", "{": "}", "[": "]"}
