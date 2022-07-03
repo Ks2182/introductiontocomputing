@@ -1,4 +1,4 @@
-#ques 7
+#Question 7
 class Student:
     pass 
 class Marks:
