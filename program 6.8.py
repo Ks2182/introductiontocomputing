@@ -1,4 +1,4 @@
-#ques 8
+#Question 8
 class py_solution:
  def threeSum(self, nums):
         nums, result, i = sorted(nums), [], 0
